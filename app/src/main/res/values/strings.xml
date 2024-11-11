@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">ChuckNorris</string>
     <string name="category">Categoría</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sorry_error">Tuvimos un problema</string>
+    <string name="error">Error</string>
+    <string name="other_chiste">Otro chiste</string>
+    <string name="confirm">¿Quieres otro chiste?</string>
+    <string name="chuck_angry">Si das cancelar, puedes hacer enojar a chuck norris</string>
 </resources>

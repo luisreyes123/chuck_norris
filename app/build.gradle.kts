@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.example.chucknorris"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.chucknorris"
@@ -29,12 +29,8 @@ android {
             )
         }
     }
-    viewBinding {
-        enabled = true
-    }
     buildFeatures {
-        viewBinding true       // Para View Binding
-        dataBinding true       // Para Data Binding
+        viewBinding = true
     }
 
     compileOptions {
